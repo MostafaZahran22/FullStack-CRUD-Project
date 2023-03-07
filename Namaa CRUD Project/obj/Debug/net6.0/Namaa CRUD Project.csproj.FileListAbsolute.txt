@@ -1,0 +1,46 @@
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.csproj.AssemblyReference.cache
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.AssemblyInfoInputs.cache
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.AssemblyInfo.cs
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.csproj.CoreCompileInputs.cache
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.MvcApplicationPartsAssemblyInfo.cs
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.MvcApplicationPartsAssemblyInfo.cache
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\appsettings.Development.json
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\appsettings.json
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Namaa CRUD Project.exe
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Namaa CRUD Project.deps.json
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Namaa CRUD Project.runtimeconfig.json
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Namaa CRUD Project.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Namaa CRUD Project.pdb
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\MySqlConnector.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\programing\WEB\Namaa CRUD Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets\msbuild.Namaa CRUD Project.Microsoft.AspNetCore.StaticWebAssets.props
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Namaa CRUD Project.props
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Namaa CRUD Project.props
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Namaa CRUD Project.props
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets.pack.json
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets.build.json
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\staticwebassets.development.json
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\scopedcss\bundle\Namaa CRUD Project.styles.css
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.csproj.CopyComplete
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.dll
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\refint\Namaa CRUD Project.dll
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.pdb
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\Namaa CRUD Project.genruntimeconfig.cache
+F:\programing\WEB\Namaa CRUD Project\obj\Debug\net6.0\ref\Namaa CRUD Project.dll

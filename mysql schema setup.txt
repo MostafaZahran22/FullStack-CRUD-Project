@@ -1,0 +1,5 @@
+1- Creat schema claed Namaa
+2- Add table caled users
+3- Add autoincrement id column
+4- Add fname (First Name) column
+5- Add lname (Last Name) column
